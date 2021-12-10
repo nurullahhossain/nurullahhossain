@@ -1,6 +1,6 @@
+![I am Web Developer](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/p180x540/255284800_1273997133025754_525623962950572982_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=CQwXpGqtg7gAX8UjyMs&_nc_ht=scontent.fdac8-1.fna&oh=1ad724bf9ce0bd638bf1e4ef64e0ce1c&oe=61B8DF4E)
 ### Hi there 👋, my name is Nurullah
 #### I am Web Developer
-![I am Web Developer](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/s960x960/242697877_1243851399373661_6894139377294657342_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_ohc=9Ph-ZLE8pOcAX-kGCoL&_nc_ht=scontent.fdac8-1.fna&oh=bbb3527aa83bd62541f1f2b16a468c57&oe=61B81284)
 
 I am a new web developer.
 

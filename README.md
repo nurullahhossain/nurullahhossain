@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nurullah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurullahhossain&label=Profile%20views&color=0e75b6&style=flat" alt="nurullahhossain" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurullahhossain" alt="nurullahhossain" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Front End Development**
@@ -17,6 +13,8 @@
 - 💬 Ask me about **Android , MEARN**
 
 - 📫 How to reach me **hsn.nurullah@gmail.com**
+
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
